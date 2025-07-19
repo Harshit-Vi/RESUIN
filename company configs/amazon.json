@@ -1,0 +1,10 @@
+{
+  "must_have_keywords": ["leadership", "ownership", "metrics", "results"],
+  "weights": {
+    "skills": 25,
+    "experience": 25,
+    "formatting": 10,
+    "education": 10,
+    "projects": 30
+  }
+}
